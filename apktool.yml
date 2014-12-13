@@ -1,0 +1,12 @@
+version: 1.5.2
+apkFileName: world_time_alarmapk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '3'
+packageInfo:
+  cur_package: appinventor.ai_ward46067.world_time_alarm
+  orig_package: appinventor.ai_ward46067.world_time_alarm
+compressionType: false
